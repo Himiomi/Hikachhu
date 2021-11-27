@@ -1,6 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=Hikachhu&count_private=false&show_icons=true&theme=highcontrast)
-
-<p>
 Linkedin : <a href="https://www.linkedin.com/in/morinflorian/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 
 
@@ -11,6 +8,10 @@ Student in 4th year at <a href="https://www.esiea.fr/">ESIEA</a> in the Software
 ### Bonjour 👋
   
 Etudiant en 4ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la majeure Software Engineering
+
+![](https://github-readme-stats.vercel.app/api?username=Hikachhu&count_private=false&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)](https://github.com/Hikachhu/github-readme-stats)
 <!--
 **Hikachhu/Hikachhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
