@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 <!--
 **Hikachhu/Hikachhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
