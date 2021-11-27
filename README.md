@@ -1,7 +1,6 @@
+![](https://github-readme-stats.vercel.app/api?username=Hikachhu&count_private=false&show_icons=true&theme=highcontrast)
 ### Hi there 👋
 ### Bonjour 👋
-<p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikachhu&theme=dark&show_icons=true)
 <p>
 Mon linkedin : <a href="https://www.linkedin.com/in/morinflorian/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 <p>
