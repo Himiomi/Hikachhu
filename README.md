@@ -11,7 +11,7 @@ Etudiant en 4ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la 
 
 ![](https://github-readme-stats.vercel.app/api?username=Hikachhu&count_private=false&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)](https://github.com/Hikachhu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)
 <!--
 **Hikachhu/Hikachhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
