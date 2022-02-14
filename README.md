@@ -1,5 +1,12 @@
 My Linkedin : <a href="https://www.linkedin.com/in/morinflorian/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 
+```mermaid
+graph TD;
+  Sleep-->Eat;
+  Eat-->Work;
+  Work-->Game;
+  Game-->Sleep;
+```
 
 ### Hi there 👋
 
