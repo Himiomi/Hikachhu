@@ -8,6 +8,9 @@ graph TD;
   Game-->Sleep;
 ```
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Hi there 👋
 
 Student in 4th year at <a href="https://www.esiea.fr/">ESIEA</a> in the Software Engineering major
