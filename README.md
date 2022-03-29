@@ -1,15 +1,12 @@
 My Linkedin : <a href="https://www.linkedin.com/in/morinflorian/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 
-```mermaid
-graph TD;
-  Sleep-->Eat;
-  Eat-->Work;
-  Work-->Game;
-  Game-->Sleep;
-```
+Mes gros projets:
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[Serveur de musique](https://github.com/Hikachhu/Glpoo_Bessel_Raph_Florian)<br>
+[Application mobile inspirée de twitter](https://github.com/Hikachhu/keskheu)<br>
+[Une gare de métro en C](https://github.com/Hikachhu/ProjetMetro)<br>
+[Une serre connectée](https://github.com/JardinsBruyere)<br>
+
 
 ### Hi there 👋
 
@@ -24,6 +21,7 @@ Etudiant en 4ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)
 
 <!--
+
 **Hikachhu/Hikachhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
