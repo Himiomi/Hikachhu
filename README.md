@@ -10,11 +10,11 @@ Mes gros projets:
 
 ### Hi there 👋
 
-Student in 4th year at <a href="https://www.esiea.fr/">ESIEA</a> in the Software Engineering major
+Student in 5th year at <a href="https://www.esiea.fr/">ESIEA</a> in the Software Engineering major
 
 ### Bonjour 👋
   
-Etudiant en 4ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la majeure Software Engineering
+Etudiant en 5ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la majeure Software Engineering
 
 ![](https://github-readme-stats.vercel.app/api?username=Hikachhu&count_private=false&show_icons=true&theme=highcontrast)
 
