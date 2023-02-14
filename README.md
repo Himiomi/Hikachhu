@@ -18,7 +18,7 @@ Etudiant en 5ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la 
 
 ![](https://github-readme-stats.vercel.app/api?username=Hikachhu&count_private=false&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikachhu&langs_count=8)
+[![Top Langs](https://api.githubtrends.io/user/svg/Hikachhu/langs?time_range=one_year&theme=dark)](https://api.githubtrends.io/user/svg/Hikachhu/langs?time_range=one_year&theme=dark)
 
 <!--
 
