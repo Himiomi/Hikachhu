@@ -20,6 +20,9 @@ Etudiant en 5ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la 
 
 [![Top Langs](https://api.githubtrends.io/user/svg/Hikachhu/langs?time_range=one_year&theme=dark)](https://api.githubtrends.io/user/svg/Hikachhu/langs?time_range=one_year&theme=dark)
 
+[![Top Langs](https://api.githubtrends.io/user/svg/Hikachhu/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)]([https://api.githubtrends.io/user/svg/Hikachhu/langs?time_range=one_year&theme=dark](https://api.githubtrends.io/user/svg/Hikachhu/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark))
+
+
 <!--
 
 **Hikachhu/Hikachhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
