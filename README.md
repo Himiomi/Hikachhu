@@ -1,5 +1,3 @@
-My Linkedin : <a href="https://www.linkedin.com/in/morinflorian/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
-
 Mes gros projets:
 
 [Serveur de musique](https://github.com/Hikachhu/Glpoo_Bessel_Raph_Florian)<br>
@@ -7,14 +5,6 @@ Mes gros projets:
 [Une gare de métro en C](https://github.com/Hikachhu/ProjetMetro)<br>
 [Une serre connectée](https://github.com/JardinsBruyere)<br>
 
-
-### Hi there 👋
-
-Student in 5th year at <a href="https://www.esiea.fr/">ESIEA</a> in the Software Engineering major
-
-### Bonjour 👋
-  
-Etudiant en 5ème année à <a href="https://www.esiea.fr/">l'ESIEA</a> dans la majeure Software Engineering
 
 ![](https://github-readme-stats.vercel.app/api?username=Hikachhu&count_private=false&show_icons=true&theme=highcontrast)
 
